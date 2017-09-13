@@ -2,4 +2,6 @@
 # This is for:
 # Versioning
 # Space to put Demos for class
-# and Final Cut that will be demonstrated in class
+# Final Cut that will be demonstrated in class
+# Each Collaborators will have his own File with all versions they have worked on previously
+# 
