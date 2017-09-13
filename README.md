@@ -3,5 +3,5 @@
 # Versioning
 # Space to put Demos for class
 # Final Cut that will be demonstrated in class
-# Each Collaborators will have his own File with all versions they have worked on previously
+# Each Collaboratorwill have his own File with all versions they have worked on previously
 # 
